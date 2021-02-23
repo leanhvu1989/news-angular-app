@@ -1,0 +1,61 @@
+{
+  "articles": {
+    "data": [
+      {
+        "source": {
+          "id": "yahoo",
+          "name": "yahoo"
+        },
+        "author": "Natasha Dailey",
+        "title": "Facebook reported fake numbers to advertisers",
+        "description": "Facebook executives knew for years its \"potential reach\" advertising metric was inflated and overruled an employee warning to adjust it to avoid a revenue hit, plaintiffs of a lawsuit against the social media giant argued in an unredacted court filing…",
+        "url": "https://news.yahoo.com/unsealed-court-document-claims-facebook-203236002.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/rW2em2Y3IPyBQNvfYr7SEw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTcwNTtoPTUyOC43NQ--/https://s.yimg.com/uu/api/res/1.2/TbdjB7FEwqXw2FbqH5O9tw--~B/aD0xNTAwO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/business_insider_articles_888/e7c3810934bee41e775e7e5d1ebb6a69"
+      },
+      {
+        "source": {
+          "id": "pitchfork",
+          "name": "pitchfork"
+        },
+        "author": "Jazz Monroe",
+        "title": "Daft Punk Break Up",
+        "description": "Daft Punk, the Parisian duo responsible for some of the most popular dance and pop songs ever made, have split. They broke the news with an 8-minute video titled “Epilogue,” excerpted from their 2006 film Electroma. Asked if Daft Punk were no more, their longtime publicist Kathryn Frazier confirmed the news to Pitchfork but gave no reason for the breakup...",
+        "url": "https://pitchfork.com/news/daft-punk-call-it-quits/",
+        "urlToImage": "https://media.pitchfork.com/photos/6033c6098b8835d37316a598/2:1/w_2560%2Cc_limit/Daft-Punk.jpg"
+      },
+      {
+        "source": {
+          "id": "nationalgeographic",
+          "name": "national geographic"
+        },
+        "author": "Liz Langley",
+        "title": "We haven’t seen a quarter of known bee species since the 1990s ",
+        "description": "Bees feed us. Many of the 20,000 species pollinate 85 percent of food crops and fruits around the world—everything from garlic and grapefruits to coffee and kale...",
+        "url": "https://www.nationalgeographic.com/animals/article/we-havent-seen-quarter-of-known-bee-species-since-1990s",
+        "urlToImage": "https://i.natgeofe.com/n/75eac88f-0faf-4d15-beb9-5e0347475920/sweat-bee-purple-flower.jpg?wp=1&w=1272&h=848"
+      },
+      {
+        "source": {
+          "id": "css-tricks",
+          "name": "css-tricks"
+        },
+        "author": "Sarah Drasner",
+        "title": "Mistakes I've Made as an Engineering Manager",
+        "description": "I’ve been a manager for many years at companies of different scale. Through these experiences, I’ve done my share of learning, and made some mistakes along that way that were important lessons for me. I want to share those with you...",
+        "url": "https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/",
+        "urlToImage": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2021/02/25392378763_f90e8e23d3_c.jpg?resize=799%2C534&ssl=1"
+      },
+      {
+        "source": {
+          "id": "academictimes",
+          "name": "academictimes"
+        },
+        "author": "Zack Fishman",
+        "title": "New plant-based plastics can be chemically recycled with near-perfect efficiency",
+        "description": "German chemists have developed two sustainable plastic alternatives to high-density polyethylene that can be chemically recycled more easily and nearly 10 times as efficiently, thanks to “break points” engineered into their molecular structures...",
+        "url": "https://academictimes.com/new-plant-based-plastics-can-be-chemically-recycled-with-near-perfect-efficiency/",
+        "urlToImage": "https://academictimes.s3.amazonaws.com/attachments/kunststoffe_rueckseite_ver0shp.jpg?AWSAccessKeyId=AKIAZY7Z2AAV2DOHJOHW&Signature=Y2C%2Brp%2BsFceG5AfPEOPFh0pu354%3D&Expires=1624091976"
+      }
+    ]
+  }
+}
